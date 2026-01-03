@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: vikashashoke/kubernetes-course-grade-submission-api:stateless
+  repository: vikashashoke/kubernetes-course-grade-submission-api
   tag: stateless
   pullPolicy: IfNotPresent
 
